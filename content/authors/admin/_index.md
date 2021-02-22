@@ -10,14 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Academic Consultant \s\s Clinical Research Data Scientist
+role: Clinical Research Data Scientist
 
 # Organizations/Affiliations
 organizations:
 - name: Teladoc Health
   url: "https://www.teladochealth.com"
-- name: University of Southern California
-  url: "https://reach.usc.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include digital health interventions, wearable and remote sensors, and ecological momentary assessment.
@@ -78,6 +76,8 @@ user_groups:
 - Visitors
 ---
 
-Eldin Dzubur is a behavioral health researcher primarily interested in the implementation of experience sampling and ambulatory assessment methodology. Dr. Dzubur’s work has focused on the challenges and opportunities that accompany ecological momentary assessment, and he seeks to further preventive medicine by applying these lessons to behavioral interventions.
+Eldin Dzubur is a behavioral health researcher primarily interested in the implementation of experience sampling and ambulatory assessment methodology. Dr. Dzubur’s work has focused on the challenges and opportunities that accompany ecological momentary assessment, and he seeks to further preventive medicine by applying these lessons to behavioral interventions. He is currently a clinical research data scientist at Teladoc Health, where he analyzes program cost-effectiveness, supports clinical outcomes research, and provides thought leadership for research and development.
 
 Dr. Dzubur has academic, industry, and clinical experience in implementing digital health technology for research and interventions. He continues to disseminate his work through publications, presentations at conferences such as the Society of Behavioral Medicine, and development of open-source software. Dr. Dzubur is the co-author of MixWILD, a software for mixed effects analysis and the author of xtmixed, a Stata package used to disaggregate the within- and between-subject effects in multilevel models using ecological momentary assessment data. He has also developed an R package, ActiPro, used to integrate output data from ActiLife software and ActiWatch hardware with standalone physical activity studies and those using ecological momentary assessment. Dr. Dzubur has developed mobile applications, including a smoking cessation app known as MyQuitUSC for the Android mobile operating system.
+
+For independent academic consulting inquiries, please fill out the form located at the bottom of the page. 

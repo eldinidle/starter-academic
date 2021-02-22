@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: Academic Consultant
-Clinical Research Data Scientist
+role: Clinical Research Data Scientist
 
 # Organizations/Affiliations
 organizations:

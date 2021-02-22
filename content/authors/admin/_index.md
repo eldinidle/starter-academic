@@ -10,8 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Academic Consultant
-role: Clinical Research Data Scientist
+role: Academic Consultant \s\s Clinical Research Data Scientist
 
 # Organizations/Affiliations
 organizations:
